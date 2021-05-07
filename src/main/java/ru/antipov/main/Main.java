@@ -5,7 +5,7 @@ import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.HandlerList;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
-import ru.antipov.bank.DataBaseProcess;
+import ru.antipov.db.DataBaseProcess;
 import ru.antipov.calculator.Calculator;
 
 public class Main {

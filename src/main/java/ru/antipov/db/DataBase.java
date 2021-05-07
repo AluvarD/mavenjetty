@@ -1,4 +1,4 @@
-package ru.antipov.bank;
+package ru.antipov.db;
 
 import org.sqlite.SQLiteDataSource;
 
